@@ -1,0 +1,28 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Nova Plataforma - Sandbox",
+    "version": "unknown"
+  },
+  "servers": [
+    {
+      "url": "https://sandbox.api.pagseguro.com"
+    }
+  ],
+  "components": {
+    "securitySchemes": {}
+  },
+  "security": [
+    {}
+  ],
+  "paths": {},
+  "x-readme": {
+    "headers": [
+      {
+        "key": "accept",
+        "value": "*/*"
+      }
+    ]
+  },
+  "x-readme-fauxas": true
+}
